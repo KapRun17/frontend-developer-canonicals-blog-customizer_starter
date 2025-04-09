@@ -12,4 +12,3 @@ lerna-debug.log*
 build
 dist
 .yarn
-src
